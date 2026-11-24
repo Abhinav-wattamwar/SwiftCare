@@ -82,8 +82,11 @@ npm run lint
 
 ## Team
 Team Name : NEURIX
+
 Team Leader Name: ABHINAV WATTAMWAR
+
 Domain: ADDRESSING HEALTHCARE
+
 Problem Statement: 
 Develop a healthcare cost comparison platform that helps patients identify affordable medicines and diagnostic services by comparing prices across multiple pharmacies and diagnostic centres using a maintained sample or publicly available dataset.
 
