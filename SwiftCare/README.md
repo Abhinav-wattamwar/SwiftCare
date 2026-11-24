@@ -79,14 +79,11 @@ npm run dev
 npm run lint
 ```
 
-## Project structure
-
-_Add a short tree of your main folders here, for example `src/components`, `src/lib` (pricing, sorting, coupons, validation) and `src/data` (medicine and NABL datasets)._
 
 ## Team
+Team Name : NEURIX
+Team Leader Name: ABHINAV WATTAMWAR
+Domain: ADDRESSING HEALTHCARE
+Problem Statement: 
+Develop a healthcare cost comparison platform that helps patients identify affordable medicines and diagnostic services by comparing prices across multiple pharmacies and diagnostic centres using a maintained sample or publicly available dataset.
 
-_Add team name and members here._
-
-## License
-
-_Add a license here (for example MIT)._
