@@ -1,0 +1,6 @@
+{
+  "name": "SwiftCare — Care Price Transparency",
+  "description": "ABDM & ABHA compliant healthcare price transparency platform for India. Compare pharmacy & NABL lab prices, estimate out-of-pocket costs, inspect 3D Rx bioequivalence, and lock cashless passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
