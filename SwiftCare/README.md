@@ -34,7 +34,7 @@ Generic medicines can be 50 to 80 percent cheaper than brands, and diagnostic te
 | Clinical APIs | NLM RxNav / RxNorm, openFDA Drug Label API |
 | Standards | ABDM / ABHA (14-digit ABHA ID and OTP flow) |
 | Quality | `tsc --noEmit`, `node:test` with `tsx`, esbuild, Autoprefixer |
-| Hosting | Google Cloud Run, Supabase Cloud |
+| Hosting | Netlify |
 
 SwiftCare is web-based and needs no custom hardware. It runs in any modern browser on a phone, tablet or laptop (390px mobile baseline up to 1440px desktop). WebGL powers the 3D views and the browser's geolocation powers the radius filter.
 
